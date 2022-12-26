@@ -37,7 +37,6 @@ void update_cpu_usage(void) {
 }
 
 static int __init cpu_usage_init(void) {
-
     int i;
     u32 eax, ebx, ecx, edx;
 
