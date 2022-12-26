@@ -7,8 +7,6 @@ This approach can be useful for measuring the elapsed time of different pieces o
 
 By using a constant value for the MSR, you can ensure that the measurements are consistent and accurate.
 
-
-===== Updates -> Added kernel module, but I have some problems with kernel header so I cannot compile and run this module.
 ===== HERE ARE STEPS TO COMPILE THE KERNEL MODULE
 
 1 -> Compile the C++ code into a kernel module using the make command and a Makefile. 
