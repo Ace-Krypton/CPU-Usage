@@ -9,6 +9,7 @@ By using a constant value for the MSR, you can ensure that the measurements are 
 
 
 ================================================== TODO =======================================================
+
 [ ] This program requires to run at ring(0)*
 [ ] Turn this into kernel module that could elavate the privilege to ring(0)
 
